@@ -9,3 +9,7 @@ Currently, two official plugins are available:
 
 
 ![Screenshot (266)](https://github.com/vinaychaudhary604/Vinay_Portfolio/assets/56742648/3313cf8c-1eb6-47ab-a08e-eaec465da342)
+
+![Screenshot 2024-01-21 224650](https://github.com/vinaychaudhary604/Vinay_Portfolio/assets/56742648/40ae03e0-0581-4ac0-b3d4-bb01e9423733)
+
+![Screenshot 2024-01-21 224719](https://github.com/vinaychaudhary604/Vinay_Portfolio/assets/56742648/f006c9e0-2a74-4db7-a56d-945ac8bd91de)
