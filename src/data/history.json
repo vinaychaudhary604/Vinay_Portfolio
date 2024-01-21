@@ -1,0 +1,24 @@
+[
+
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "AMAZON",
+      "startDate": "Jan, 2023",
+      "endDate": "June 2023",
+      "experiences": [
+        "Worked in core team of Shipping with AMAZON", 
+        "Worked in backend as well as frontend"
+      ],
+      "imageSrc": "history/amazon.png"
+    },
+    {
+      "role": "Student",
+      "organisation": "Indian Institute of Information Technology, Lucknow",
+      "startDate": "Aug, 2019",
+      "endDate": "Jun, 2023",
+      "experiences": [
+        "8.1 SGPI" 
+      ],
+      "imageSrc": "history/IIITL.png"
+    }
+  ]

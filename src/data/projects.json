@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "Enhanced feature of existing project.Provided user a dynamic experience",
+      "skills": ["SpringBoot", "Java", "DynamoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to give the user certain option of thier choice",
+      "skills": ["React", "SpringBoot", "java"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to give the developer analysis of whole code.",
+      "skills": ["Git/Github", "Java", "SpringBoot"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
